@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fiestablocks:block/copper/copper_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/copper_block"
+    },
+    "type=top": {
+      "model": "fiestablocks:block/copper/copper_slab_top"
+    }
+  }
+}

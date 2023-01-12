@@ -16,8 +16,8 @@ apply plugin: 'net.minecraftforge.gradle'
 
 
 version = '1.0'
-group = 'fr.fiesta.example'
-archivesBaseName = 'example'
+group = 'fr.fiesta.fiestablocks'
+archivesBaseName = 'FiestaBlocks'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
 
@@ -33,10 +33,10 @@ minecraft {
 
             property 'forge.logging.console.level', 'debug'
 
-            property 'forge.enabledGameTestNamespaces', 'example'
+            property 'forge.enabledGameTestNamespaces', 'FiestaBlocks'
 
             mods {
-                example {
+                FiestaBlocks {
                     source sourceSets.main
                 }
             }
@@ -49,10 +49,10 @@ minecraft {
 
             property 'forge.logging.console.level', 'debug'
 
-            property 'forge.enabledGameTestNamespaces', 'example'
+            property 'forge.enabledGameTestNamespaces', 'FiestaBlocks'
 
             mods {
-                example {
+                FiestaBlocks {
                     source sourceSets.main
                 }
             }
@@ -65,10 +65,10 @@ minecraft {
 
             property 'forge.logging.console.level', 'debug'
 
-            property 'forge.enabledGameTestNamespaces', 'example'
+            property 'forge.enabledGameTestNamespaces', 'FiestaBlocks'
 
             mods {
-                example {
+                FiestaBlocks {
                     source sourceSets.main
                 }
             }
@@ -81,10 +81,10 @@ minecraft {
 
             property 'forge.logging.console.level', 'debug'
 
-            args '--mod', 'example', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
+            args '--mod', 'FiestaBlocks', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
 
             mods {
-                example {
+                FiestaBlocks {
                     source sourceSets.main
                 }
             }
@@ -104,12 +104,12 @@ dependencies {
 jar {
     manifest {
         attributes([
-                "Specification-Title"     : "example",
-                "Specification-Vendor"    : "examplesareus",
+                "Specification-Title"     : "FiestaBlocks",
+                "Specification-Vendor"    : "FiestaBlockssareus",
                 "Specification-Version"   : "1",
                 "Implementation-Title"    : project.name,
                 "Implementation-Version"  : project.jar.archiveVersion,
-                "Implementation-Vendor"   : "examplesareus",
+                "Implementation-Vendor"   : "FiestaBlockssareus",
                 "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
         ])
     }

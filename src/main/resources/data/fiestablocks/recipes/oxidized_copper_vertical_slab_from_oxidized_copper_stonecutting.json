@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:oxidized_copper"
+  },
+  "result": "fiestablocks:oxidized_copper_vertical_slab",
+  "count": 2
+}

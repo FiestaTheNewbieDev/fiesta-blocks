@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fiestablocks:block/mossy_cobblestone/mossy_cobblestone_vertical_slab",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fiestablocks:block/mossy_cobblestone/mossy_cobblestone_vertical_slab"
+    },
+    "facing=south": {
+      "model": "fiestablocks:block/mossy_cobblestone/mossy_cobblestone_vertical_slab",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fiestablocks:block/mossy_cobblestone/mossy_cobblestone_vertical_slab",
+      "y": 270
+    }
+  }
+}

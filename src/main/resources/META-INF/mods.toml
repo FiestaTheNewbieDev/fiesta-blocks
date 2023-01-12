@@ -3,16 +3,16 @@ loaderVersion="[40,)"
 license="All rights reserved"
 
 [[mods]]
-modId="example"
+modId="fiestablocks"
 version="${file.jarVersion}"
-displayName="Example"
+displayName="Fiesta's Blocks"
 #displayURL=""
 #logoFile=""
 #credits=""
 authors="FiestaTheNewbieDev"
 description=""
 
-[[dependencies.example]] #optional
+[[dependencies.fiestablocks]] #optional
     # the modid of the dependency
     modId="forge" #mandatory
     # Does this dependency have to exist - if not, ordering below must be specified
@@ -24,7 +24,7 @@ description=""
     # Side this dependency is applied on - BOTH, CLIENT or SERVER
     side="BOTH"
 
-[[dependencies.example]]
+[[dependencies.fiestablocks]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.18.2,)"

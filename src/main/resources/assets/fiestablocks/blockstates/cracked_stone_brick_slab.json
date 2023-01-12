@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fiestablocks:block/cracked_stone_bricks/cracked_stone_brick_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/cracked_stone_bricks"
+    },
+    "type=top": {
+      "model": "fiestablocks:block/cracked_stone_bricks/cracked_stone_brick_slab_top"
+    }
+  }
+}

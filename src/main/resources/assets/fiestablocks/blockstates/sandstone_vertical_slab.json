@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fiestablocks:block/sandstone/sandstone_vertical_slab",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fiestablocks:block/sandstone/sandstone_vertical_slab"
+    },
+    "facing=south": {
+      "model": "fiestablocks:block/sandstone/sandstone_vertical_slab",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fiestablocks:block/sandstone/sandstone_vertical_slab",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fiestablocks:block/netherite/netherite_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/netherite_block"
+    },
+    "type=top": {
+      "model": "fiestablocks:block/netherite/netherite_slab_top"
+    }
+  }
+}

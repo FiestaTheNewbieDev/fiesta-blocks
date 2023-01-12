@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "fiestablocks:oak_vertical_slab",
+    "fiestablocks:spruce_vertical_slab",
+    "fiestablocks:birch_vertical_slab",
+    "fiestablocks:jungle_vertical_slab",
+    "fiestablocks:acacia_vertical_slab",
+    "fiestablocks:dark_oak_vertical_slab",
+    "fiestablocks:crimson_vertical_slab",
+    "fiestablocks:warped_vertical_slab"
+  ]
+}

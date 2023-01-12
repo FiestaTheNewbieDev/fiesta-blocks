@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "fiestablocks:netherite_stairs",
+    "fiestablocks:netherite_slab",
+    "fiestablocks:netherite_vertical_slab",
+    "fiestablocks:netherite_trapdoor"
+  ]
+}

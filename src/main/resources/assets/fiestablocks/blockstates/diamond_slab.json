@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fiestablocks:block/diamond/diamond_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/diamond_block"
+    },
+    "type=top": {
+      "model": "fiestablocks:block/diamond/diamond_slab_top"
+    }
+  }
+}

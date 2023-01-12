@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:exposed_copper"
+  },
+  "result": "fiestablocks:exposed_copper_vertical_slab",
+  "count": 2
+}

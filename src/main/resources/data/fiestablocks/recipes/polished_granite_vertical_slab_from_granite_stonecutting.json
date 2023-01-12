@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:granite"
+  },
+  "result": "fiestablocks:polished_granite_vertical_slab",
+  "count": 2
+}

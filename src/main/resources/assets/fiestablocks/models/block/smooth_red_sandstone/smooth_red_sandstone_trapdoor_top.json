@@ -1,0 +1,8 @@
+{
+  "parent": "fiestablocks:block/template_orientable_trapdoor_top",
+  "textures": {
+    "top": "minecraft:block/red_sandstone_top",
+    "side": "minecraft:block/red_sandstone_top",
+    "bottom": "minecraft:block/red_sandstone_top"
+  }
+}

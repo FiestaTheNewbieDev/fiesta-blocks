@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fiestablocks:block/stone_bricks/stone_brick_vertical_slab",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fiestablocks:block/stone_bricks/stone_brick_vertical_slab"
+    },
+    "facing=south": {
+      "model": "fiestablocks:block/stone_bricks/stone_brick_vertical_slab",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fiestablocks:block/stone_bricks/stone_brick_vertical_slab",
+      "y": 270
+    }
+  }
+}
