@@ -1,35 +1,37 @@
 {
-  "block.fiestablocks.stone_trapdoor": "Stone Trapdoor",
+  "block.fiestablocks.stone_plate": "Stone Plate",
   "block.fiestablocks.stone_vertical_slab": "Stone Vertical Slab",
 
-  "block.fiestablocks.granite_trapdoor": "Granite Trapdoor",
+  "block.fiestablocks.granite_plate": "Granite Plate",
   "block.fiestablocks.granite_vertical_slab": "Granite Vertical Slab",
 
-  "block.fiestablocks.polished_granite_trapdoor": "Polished Granite Trapdoor",
+  "block.fiestablocks.polished_granite_plate": "Polished Granite Plate",
   "block.fiestablocks.polished_granite_vertical_slab": "Polished Granite Vertical Slab",
 
-  "block.fiestablocks.diorite_trapdoor": "Diorite Trapdoor",
+  "block.fiestablocks.diorite_plate": "Diorite Plate",
   "block.fiestablocks.diorite_vertical_slab": "Diorite Vertical Slab",
 
-  "block.fiestablocks.polished_diorite_trapdoor": "Polished Diorite Trapdoor",
+  "block.fiestablocks.polished_diorite_plate": "Polished Diorite Plate",
   "block.fiestablocks.polished_diorite_vertical_slab": "Polished Diorite Vertical Slab",
 
-  "block.fiestablocks.andesite_trapdoor": "Andesite Trapdoor",
+  "block.fiestablocks.andesite_plate": "Andesite Plate",
   "block.fiestablocks.andesite_vertical_slab": "Andesite Vertical Slab",
 
-  "block.fiestablocks.polished_andesite_trapdoor": "Polished Andesite Trapdoor",
+  "block.fiestablocks.polished_andesite_plate": "Polished Andesite Plate",
   "block.fiestablocks.polished_andesite_vertical_slab": "Polished Andesite Vertical Slab",
 
-  "block.fiestablocks.cobbled_deepslate_trapdoor": "Cobbled Deepslate Trapdoor",
+  "block.fiestablocks.cobbled_deepslate_plate": "Cobbled Deepslate Plate",
   "block.fiestablocks.cobbled_deepslate_vertical_slab": "Cobbled Deepslate Vertical Slab",
 
-  "block.fiestablocks.polished_deepslate_trapdoor": "Polished Deepslate Trapdoor",
+  "block.fiestablocks.polished_deepslate_plate": "Polished Deepslate Plate",
   "block.fiestablocks.polished_deepslate_vertical_slab": "Polished Deepslate Vertical Slab",
 
-  "block.fiestablocks.cobblestone_trapdoor": "Cobblestone Trapdoor",
+  "block.fiestablocks.cobblestone_plate": "Cobblestone Plate",
   "block.fiestablocks.cobblestone_vertical_slab": "Cobblestone Vertical Slab",
 
+  "block.fiestablocks.oak_plate": "Oak Plate",
   "block.fiestablocks.oak_vertical_slab": "Oak Vertical Slab",
+
   "block.fiestablocks.spruce_vertical_slab": "Spruce Vertical Slab",
   "block.fiestablocks.birch_vertical_slab": "Birch Vertical Slab",
   "block.fiestablocks.jungle_vertical_slab": "Jungle Vertical Slab",
@@ -42,163 +44,163 @@
   "block.fiestablocks.iron_slab": "Iron Slab",
   "block.fiestablocks.iron_vertical_slab": "Iron Vertical Slab",
 
-  "block.fiestablocks.copper_trapdoor": "Copper Trapdoor",
+  "block.fiestablocks.copper_plate": "Copper Plate",
   "block.fiestablocks.copper_stairs": "Copper Stairs",
   "block.fiestablocks.copper_slab": "Copper Slab",
   "block.fiestablocks.copper_vertical_slab": "Copper Vertical Slab",
 
-  "block.fiestablocks.gold_trapdoor": "Gold Trapdoor",
+  "block.fiestablocks.gold_plate": "Gold Plate",
   "block.fiestablocks.gold_stairs": "Gold Stairs",
   "block.fiestablocks.gold_slab": "Gold Slab",
   "block.fiestablocks.gold_vertical_slab": "Gold Vertical Slab",
 
-  "block.fiestablocks.diamond_trapdoor": "Diamond Trapdoor",
+  "block.fiestablocks.diamond_plate": "Diamond Plate",
   "block.fiestablocks.diamond_stairs": "Diamond Stairs",
   "block.fiestablocks.diamond_slab": "Diamond Slab",
   "block.fiestablocks.diamond_vertical_slab": "Diamond Vertical Slab",
 
-  "block.fiestablocks.netherite_trapdoor": "Netherite Trapdoor",
+  "block.fiestablocks.netherite_plate": "Netherite Plate",
   "block.fiestablocks.netherite_stairs": "Netherite Stairs",
   "block.fiestablocks.netherite_slab": "Netherite Slab",
   "block.fiestablocks.netherite_vertical_slab": "Netherite Vertical Slab",
 
-  "block.fiestablocks.exposed_copper_trapdoor": "Exposed Copper Trapdoor",
+  "block.fiestablocks.exposed_copper_plate": "Exposed Copper Plate",
   "block.fiestablocks.exposed_copper_stairs": "Exposed Copper Stairs",
   "block.fiestablocks.exposed_copper_slab": "Exposed Copper Slab",
   "block.fiestablocks.exposed_copper_vertical_slab": "Exposed Copper Vertical Slab",
 
-  "block.fiestablocks.weathered_copper_trapdoor": "Weathered Copper Trapdoor",
+  "block.fiestablocks.weathered_copper_plate": "Weathered Copper Plate",
   "block.fiestablocks.weathered_copper_stairs": "Weathered Copper Stairs",
   "block.fiestablocks.weathered_copper_slab": "Weathered Copper Slab",
   "block.fiestablocks.weathered_copper_vertical_slab": "Weathered Copper Vertical Slab",
 
-  "block.fiestablocks.oxidized_copper_trapdoor": "Oxidized Copper Trapdoor",
+  "block.fiestablocks.oxidized_copper_plate": "Oxidized Copper Plate",
   "block.fiestablocks.oxidized_copper_stairs": "Oxidized Copper Stairs",
   "block.fiestablocks.oxidized_copper_slab": "Oxidized Copper Slab",
   "block.fiestablocks.oxidized_copper_vertical_slab": "Oxidized Copper Vertical Slab",
 
-  "block.fiestablocks.cut_copper_trapdoor": "Cut Copper Trapdoor",
+  "block.fiestablocks.cut_copper_plate": "Cut Copper Plate",
   "block.fiestablocks.cut_copper_vertical_slab": "Cut Copper Vertical Slab",
 
-  "block.fiestablocks.exposed_cut_copper_trapdoor": "Exposed Cut Copper Trapdoor",
+  "block.fiestablocks.exposed_cut_copper_plate": "Exposed Cut Copper Plate",
   "block.fiestablocks.exposed_cut_copper_vertical_slab": "Exposed Cut Copper Vertical Slab",
 
-  "block.fiestablocks.weathered_cut_copper_trapdoor": "Weathered Cut Copper Trapdoor",
+  "block.fiestablocks.weathered_cut_copper_plate": "Weathered Cut Copper Plate",
   "block.fiestablocks.weathered_cut_copper_vertical_slab": "Weathered Cut Copper Vertical Slab",
 
-  "block.fiestablocks.oxidized_cut_copper_trapdoor": "Oxidized Cut Copper Trapdoor",
+  "block.fiestablocks.oxidized_cut_copper_plate": "Oxidized Cut Copper Plate",
   "block.fiestablocks.oxidized_cut_copper_vertical_slab": "Oxidized Cut Copper Vertical Slab",
 
-  "block.fiestablocks.lapis_trapdoor": "Lapis Lazuli Trapdoor",
+  "block.fiestablocks.lapis_plate": "Lapis Lazuli Plate",
   "block.fiestablocks.lapis_stairs": "Lapis Lazuli Stairs",
   "block.fiestablocks.lapis_slab": "Lapis Lazuli Slab",
   "block.fiestablocks.lapis_vertical_slab": "Lapis Lazuli Vertical Slab",
 
-  "block.fiestablocks.sandstone_trapdoor": "Sandstone Trapdoor",
+  "block.fiestablocks.sandstone_plate": "Sandstone Plate",
   "block.fiestablocks.sandstone_vertical_slab": "Sandstone Vertical Slab",
 
 
-  "block.fiestablocks.cut_sandstone_trapdoor": "Cut Sandstone Trapdoor",
+  "block.fiestablocks.cut_sandstone_plate": "Cut Sandstone Plate",
   "block.fiestablocks.cut_sandstone_stairs": "Cut Sandstone Stairs",
   "block.fiestablocks.cut_sandstone_vertical_slab": "Cut Sandstone Vertical Slab",
 
-  "block.fiestablocks.smooth_quartz_trapdoor": "Smooth Quartz Trapdoor",
+  "block.fiestablocks.smooth_quartz_plate": "Smooth Quartz Plate",
   "block.fiestablocks.smooth_quartz_vertical_slab": "Smooth Quartz Vertical Slab",
 
-  "block.fiestablocks.smooth_red_sandstone_trapdoor": "Smooth Red Sandstone Trapdoor",
+  "block.fiestablocks.smooth_red_sandstone_plate": "Smooth Red Sandstone Plate",
   "block.fiestablocks.smooth_red_sandstone_vertical_slab": "Smooth Red Sandstone Vertical Slab",
 
-  "block.fiestablocks.smooth_sandstone_trapdoor": "Smooth Sandstone Trapdoor",
+  "block.fiestablocks.smooth_sandstone_plate": "Smooth Sandstone Plate",
   "block.fiestablocks.smooth_sandstone_vertical_slab": "Smooth Sandstone Vertical Slab",
 
-  "block.fiestablocks.smooth_stone_trapdoor": "Smooth Stone Trapdoor",
+  "block.fiestablocks.smooth_stone_plate": "Smooth Stone Plate",
   "block.fiestablocks.smooth_stone_stairs": "Smooth Stone Stairs",
   "block.fiestablocks.smooth_stone_vertical_slab": "Smooth Stone Vertical Slab",
 
-  "block.fiestablocks.brick_trapdoor": "Brick Trapdoor",
+  "block.fiestablocks.brick_plate": "Brick Plate",
   "block.fiestablocks.brick_vertical_slab": "Brick Vertical Slab",
 
-  "block.fiestablocks.mossy_cobblestone_trapdoor": "Mossy Cobblestone Trapdoor",
+  "block.fiestablocks.mossy_cobblestone_plate": "Mossy Cobblestone Plate",
   "block.fiestablocks.mossy_cobblestone_vertical_slab": "Mossy Cobblestone Vertical Slab",
 
-  "block.fiestablocks.purpur_trapdoor": "Purpur Trapdoor",
+  "block.fiestablocks.purpur_plate": "Purpur Plate",
   "block.fiestablocks.purpur_vertical_slab": "Purpur Vertical Slab",
 
-  "block.fiestablocks.stone_brick_trapdoor": "Stone Brick Trapdoor",
+  "block.fiestablocks.stone_brick_plate": "Stone Brick Plate",
   "block.fiestablocks.stone_brick_vertical_slab": "Stone Brick Vertical Slab",
 
-  "block.fiestablocks.mossy_stone_brick_trapdoor": "Mossy Stone Brick Trapdoor",
+  "block.fiestablocks.mossy_stone_brick_plate": "Mossy Stone Brick Plate",
   "block.fiestablocks.mossy_stone_brick_vertical_slab": "Mossy Stone Brick Vertical Slab",
 
-  "block.fiestablocks.cracked_stone_brick_trapdoor": "Cracked Stone Brick Trapdoor",
+  "block.fiestablocks.cracked_stone_brick_plate": "Cracked Stone Brick Plate",
   "block.fiestablocks.cracked_stone_brick_stairs": "Cracked Stone Brick Stairs",
   "block.fiestablocks.cracked_stone_brick_slab": "Cracked Stone Brick Slab",
   "block.fiestablocks.cracked_stone_brick_vertical_slab": "Cracked Stone Brick Vertical Slab",
 
-  "block.fiestablocks.deepslate_brick_trapdoor": "Deepslate Brick Trapdoor",
+  "block.fiestablocks.deepslate_brick_plate": "Deepslate Brick Plate",
   "block.fiestablocks.deepslate_brick_vertical_slab": "Deepslate Brick Vertical Slab",
 
-  "block.fiestablocks.cracked_deepslate_brick_trapdoor": "Cracked Deepslate Brick Trapdoor",
+  "block.fiestablocks.cracked_deepslate_brick_plate": "Cracked Deepslate Brick Plate",
   "block.fiestablocks.cracked_deepslate_brick_stairs": "Cracked Deepslate Brick Stairs",
   "block.fiestablocks.cracked_deepslate_brick_slab": "Cracked Deepslate Brick Slab",
   "block.fiestablocks.cracked_deepslate_brick_vertical_slab": "Cracked Deepslate Brick Vertical Slab",
 
-  "block.fiestablocks.deepslate_tile_trapdoor": "Deepslate Tile Trapdoor",
+  "block.fiestablocks.deepslate_tile_plate": "Deepslate Tile Plate",
   "block.fiestablocks.deepslate_tile_vertical_slab": "Deepslate Tile Vertical Slab",
 
-  "block.fiestablocks.cracked_deepslate_tile_trapdoor": "Cracked Deepslate Tile Trapdoor",
+  "block.fiestablocks.cracked_deepslate_tile_plate": "Cracked Deepslate Tile Plate",
   "block.fiestablocks.cracked_deepslate_tile_stairs": "Cracked Deepslate Tile Stairs",
   "block.fiestablocks.cracked_deepslate_tile_slab": "Cracked Deepslate Tile Slab",
   "block.fiestablocks.cracked_deepslate_tile_vertical_slab": "Cracked Deepslate Tile Vertical Slab",
 
-  "block.fiestablocks.nether_brick_trapdoor": "Nether Brick Trapdoor",
+  "block.fiestablocks.nether_brick_plate": "Nether Brick Plate",
   "block.fiestablocks.nether_brick_vertical_slab": "Nether Brick Vertical Slab",
 
-  "block.fiestablocks.cracked_nether_brick_trapdoor": "Cracked Nether Brick Trapdoor",
+  "block.fiestablocks.cracked_nether_brick_plate": "Cracked Nether Brick Plate",
   "block.fiestablocks.cracked_nether_brick_stairs": "Cracked Nether Brick Stairs",
   "block.fiestablocks.cracked_nether_brick_slab": "Cracked Nether Brick Slab",
   "block.fiestablocks.cracked_nether_brick_vertical_slab": "Cracked Nether Brick Vertical Slab",
 
-  "block.fiestablocks.end_stone_brick_trapdoor": "End Stone Brick Trapdoor",
+  "block.fiestablocks.end_stone_brick_plate": "End Stone Brick Plate",
   "block.fiestablocks.end_stone_brick_vertical_slab": "End Stone Brick Vertical Slab",
 
-  "block.fiestablocks.emerald_trapdoor": "Emerald Trapdoor",
+  "block.fiestablocks.emerald_plate": "Emerald Plate",
   "block.fiestablocks.emerald_stairs": "Emerald Stairs",
   "block.fiestablocks.emerald_slab": "Emerald Slab",
   "block.fiestablocks.emerald_vertical_slab": "Emerald Vertical Slab",
 
-  "block.fiestablocks.quartz_trapdoor": "Quartz Trapdoor",
+  "block.fiestablocks.quartz_plate": "Quartz Plate",
   "block.fiestablocks.quartz_vertical_slab": "Quartz Vertical Slab",
 
-  "block.fiestablocks.prismarine_trapdoor": "Prismarine Trapdoor",
+  "block.fiestablocks.prismarine_plate": "Prismarine Plate",
   "block.fiestablocks.prismarine_vertical_slab": "Prismarine Vertical Slab",
 
-  "block.fiestablocks.prismarine_brick_trapdoor": "Prismarine Brick Trapdoor",
+  "block.fiestablocks.prismarine_brick_plate": "Prismarine Brick Plate",
   "block.fiestablocks.prismarine_brick_vertical_slab": "Prismarine Brick Vertical Slab",
 
-  "block.fiestablocks.dark_prismarine_trapdoor": "Dark Prismarine Trapdoor",
+  "block.fiestablocks.dark_prismarine_plate": "Dark Prismarine Plate",
   "block.fiestablocks.dark_prismarine_vertical_slab": "Dark Prismarine Vertical Slab",
 
-  "block.fiestablocks.red_sandstone_trapdoor": "Red Sandstone Trapdoor",
+  "block.fiestablocks.red_sandstone_plate": "Red Sandstone Plate",
   "block.fiestablocks.red_sandstone_vertical_slab": "Red Sandstone Vertical Slab",
 
-  "block.fiestablocks.cut_red_sandstone_trapdoor": "Cut Red Sandstone Trapdoor",
+  "block.fiestablocks.cut_red_sandstone_plate": "Cut Red Sandstone Plate",
   "block.fiestablocks.cut_red_sandstone_stairs": "Cut Red Sandstone Stairs",
   "block.fiestablocks.cut_red_sandstone_vertical_slab": "Cut Red Sandstone Vertical Slab",
 
-  "block.fiestablocks.red_nether_brick_trapdoor": "Red Nether Brick Trapdoor",
+  "block.fiestablocks.red_nether_brick_plate": "Red Nether Brick Plate",
   "block.fiestablocks.red_nether_brick_vertical_slab": "Red Nether Brick Vertical Slab",
 
-  "block.fiestablocks.blackstone_trapdoor": "Blackstone Trapdoor",
+  "block.fiestablocks.blackstone_plate": "Blackstone Plate",
   "block.fiestablocks.blackstone_vertical_slab": "Blackstone Vertical Slab",
 
-  "block.fiestablocks.polished_blackstone_trapdoor": "Polished Blackstone Trapdoor",
+  "block.fiestablocks.polished_blackstone_plate": "Polished Blackstone Plate",
   "block.fiestablocks.polished_blackstone_vertical_slab": "Polished Blackstone Vertical Slab",
 
-  "block.fiestablocks.polished_blackstone_brick_trapdoor": "Polished Blackstone Brick Trapdoor",
+  "block.fiestablocks.polished_blackstone_brick_plate": "Polished Blackstone Brick Plate",
   "block.fiestablocks.polished_blackstone_brick_vertical_slab": "Polished Blackstone Brick Vertical Slab",
 
-  "block.fiestablocks.cracked_polished_blackstone_brick_trapdoor": "Cracked Polished Blackstone Brick Trapdoor",
+  "block.fiestablocks.cracked_polished_blackstone_brick_plate": "Cracked Polished Blackstone Brick Plate",
   "block.fiestablocks.cracked_polished_blackstone_brick_stairs": "Cracked Polished Blackstone Brick Stairs",
   "block.fiestablocks.cracked_polished_blackstone_brick_slab": "Cracked Polished Blackstone Brick Slab",
   "block.fiestablocks.cracked_polished_blackstone_brick_vertical_slab": "Cracked Polished Blackstone Brick Vertical Slab"

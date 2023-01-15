@@ -1,17 +1,17 @@
 {
   "replace": false,
   "values": [
-    "fiestablocks:gold_trapdoor",
+    "fiestablocks:gold_plate",
     "fiestablocks:gold_stairs",
     "fiestablocks:gold_slab",
     "fiestablocks:gold_vertical_slab",
-    "fiestablocks:diamond_trapdoor",
+    "fiestablocks:diamond_plate",
     "fiestablocks:diamond_stairs",
     "fiestablocks:diamond_slab",
     "fiestablocks:diamond_vertical_slab",
     "fiestablocks:emerald_stairs",
     "fiestablocks:emerald_slab",
     "fiestablocks:emerald_vertical_slab",
-    "fiestablocks:emerald_trapdoor"
+    "fiestablocks:emerald_plate"
   ]
 }

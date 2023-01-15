@@ -34,8 +34,9 @@ public class VerticalSlabBlock extends Block implements SimpleWaterloggedBlock {
         this.registerDefaultState(this.defaultBlockState().setValue(FACING, Direction.SOUTH).setValue(WATERLOGGED, Boolean.valueOf(false)));
     }
 
+    @Override
     public VoxelShape getShape(BlockState state, BlockGetter level, BlockPos pos, CollisionContext context) {
-        switch ((Direction)state.getValue(FACING)) {
+        switch (state.getValue(FACING)) {
             case NORTH:
             default:
                 return NORTH_SHAPE;
@@ -58,7 +59,7 @@ public class VerticalSlabBlock extends Block implements SimpleWaterloggedBlock {
 
     @Override
     public BlockState rotate(BlockState state, LevelAccessor level, BlockPos pos, Rotation direction) {
-        return super.rotate(state, level, pos, direction);
+        return state.setValue(FACING, direction.rotate(state.getValue(FACING)));
     }
 
     @Override

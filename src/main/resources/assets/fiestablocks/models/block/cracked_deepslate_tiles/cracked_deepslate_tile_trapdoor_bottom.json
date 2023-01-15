@@ -1,8 +1,0 @@
-{
-  "parent": "fiestablocks:block/template_orientable_trapdoor_bottom",
-  "textures": {
-    "side": "minecraft:block/cracked_deepslate_tiles",
-    "top": "minecraft:block/cracked_deepslate_tiles",
-    "bottom": "minecraft:block/cracked_deepslate_tiles"
-  }
-}

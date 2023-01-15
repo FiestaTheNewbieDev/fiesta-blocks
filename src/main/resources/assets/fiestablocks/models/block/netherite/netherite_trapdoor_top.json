@@ -1,8 +1,0 @@
-{
-  "parent": "fiestablocks:block/template_orientable_trapdoor_top",
-  "textures": {
-    "top": "minecraft:block/netherite_block",
-    "side": "minecraft:block/netherite_block",
-    "bottom": "minecraft:block/netherite_block"
-  }
-}

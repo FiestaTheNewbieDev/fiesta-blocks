@@ -1,8 +1,0 @@
-{
-  "parent": "fiestablocks:block/template_orientable_trapdoor_bottom",
-  "textures": {
-    "top": "minecraft:block/cut_copper",
-    "side": "minecraft:block/cut_copper",
-    "bottom": "minecraft:block/cut_copper"
-  }
-}

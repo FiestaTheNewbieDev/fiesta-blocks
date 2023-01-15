@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "fiestablocks:oak_plate",
     "fiestablocks:oak_vertical_slab",
     "fiestablocks:spruce_vertical_slab",
     "fiestablocks:birch_vertical_slab",

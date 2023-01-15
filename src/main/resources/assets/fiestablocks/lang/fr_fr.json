@@ -1,35 +1,37 @@
 {
-  "block.fiestablocks.stone_trapdoor": "Trappe en roche",
+  "block.fiestablocks.stone_plate": "Plaque en roche",
   "block.fiestablocks.stone_vertical_slab": "Dalle verticale en roche",
 
-  "block.fiestablocks.granite_trapdoor": "Trappe en granite",
+  "block.fiestablocks.granite_plate": "Plaque en granite",
   "block.fiestablocks.granite_vertical_slab": "Dalle verticale en granite",
 
-  "block.fiestablocks.polished_granite_trapdoor": "Trappe en granite poli",
+  "block.fiestablocks.polished_granite_plate": "Plaque en granite poli",
   "block.fiestablocks.polished_granite_vertical_slab": "Dalle verticale en granite poli",
 
-  "block.fiestablocks.diorite_trapdoor": "Trappe en diorite",
+  "block.fiestablocks.diorite_plate": "Plaque en diorite",
   "block.fiestablocks.diorite_vertical_slab": "Dalle verticale eb diorite",
 
-  "block.fiestablocks.polished_diorite_trapdoor": "Trappe en diorite polie",
+  "block.fiestablocks.polished_diorite_plate": "Plaque en diorite polie",
   "block.fiestablocks.polished_diorite_vertical_slab": "Dalle verticale en diorite polie",
 
-  "block.fiestablocks.andesite_trapdoor": "Trappe d'andésite",
+  "block.fiestablocks.andesite_plate": "Trappe d'andésite",
   "block.fiestablocks.andesite_vertical_slab": "Dalle verticale d'andésite polie",
 
-  "block.fiestablocks.polished_andesite_trapdoor": "Trappe d'andésite polie",
+  "block.fiestablocks.polished_andesite_plate": "Trappe d'andésite polie",
   "block.fiestablocks.polished_andesite_vertical_slab": "Dalle verticale d'andésite polie",
 
-  "block.fiestablocks.cobbled_deepslate_trapdoor": "Trappe en pierre des abîmes",
+  "block.fiestablocks.cobbled_deepslate_plate": "Plaque en pierre des abîmes",
   "block.fiestablocks.cobbled_deepslate_vertical_slab": "Dalle verticale en pierre des abîmes",
 
-  "block.fiestablocks.polished_deepslate_trapdoor": "Trappe en ardoise des abîmes polie",
+  "block.fiestablocks.polished_deepslate_plate": "Plaque en ardoise des abîmes polie",
   "block.fiestablocks.polished_deepslate_vertical_slab": "Dalle verticale en ardoise des abîmes polie",
 
-  "block.fiestablocks.cobblestone_trapdoor": "Trappe en pierre",
+  "block.fiestablocks.cobblestone_plate": "Plaque en pierre",
   "block.fiestablocks.cobblestone_vertical_slab": "Dalle verticale en pierre",
 
+  "block.fiestablocks.oak_plate": "Plaque en chêne",
   "block.fiestablocks.oak_vertical_slab": "Dalle verticale en chêne",
+
   "block.fiestablocks.spruce_vertical_slab": "Dalle verticale en sapin",
   "block.fiestablocks.birch_vertical_slab": "Dalle verticale en bouleau",
   "block.fiestablocks.jungle_vertical_slab": "Dalle verticale en acajou",
@@ -42,163 +44,163 @@
   "block.fiestablocks.iron_slab": "Dalle en fer",
   "block.fiestablocks.iron_vertical_slab": "Dalle verticale en fer",
 
-  "block.fiestablocks.copper_trapdoor": "Trappe en cuivre",
+  "block.fiestablocks.copper_plate": "Plaque en cuivre",
   "block.fiestablocks.copper_stairs": "Escalier en cuivre",
   "block.fiestablocks.copper_slab": "Dalle en cuivre",
   "block.fiestablocks.copper_vertical_slab": "Dalle verticale en cuivre",
 
-  "block.fiestablocks.gold_trapdoor": "Trappe en or",
+  "block.fiestablocks.gold_plate": "Plaque en or",
   "block.fiestablocks.gold_stairs": "Escalier en or",
   "block.fiestablocks.gold_slab": "Dalle en or",
   "block.fiestablocks.gold_vertical_slab": "Dalle verticale en or",
 
-  "block.fiestablocks.diamond_trapdoor": "Trappe en diamant",
+  "block.fiestablocks.diamond_plate": "Plaque en diamant",
   "block.fiestablocks.diamond_stairs": "Escalier diamant",
   "block.fiestablocks.diamond_slab": "Dalle en diamant",
   "block.fiestablocks.diamond_vertical_slab": "Dalle verticale en diamant",
 
-  "block.fiestablocks.netherite_trapdoor": "Trappe en netherite",
+  "block.fiestablocks.netherite_plate": "Plaque en netherite",
   "block.fiestablocks.netherite_stairs": "Escalier en netherite",
   "block.fiestablocks.netherite_slab": "Dalle en netherite",
   "block.fiestablocks.netherite_vertical_slab": "Dalle verticale en netherite",
 
-  "block.fiestablocks.exposed_copper_trapdoor": "Trappe en cuivre exposé",
+  "block.fiestablocks.exposed_copper_plate": "Plaque en cuivre exposé",
   "block.fiestablocks.exposed_copper_stairs": "Escalier en cuivre exposé",
   "block.fiestablocks.exposed_copper_slab": "Dalle en cuivre exposé",
   "block.fiestablocks.exposed_copper_vertical_slab": "Dalle verticale en cuivre exposé",
 
-  "block.fiestablocks.weathered_copper_trapdoor": "Trappe en cuivre érodé",
+  "block.fiestablocks.weathered_copper_plate": "Plaque en cuivre érodé",
   "block.fiestablocks.weathered_copper_stairs": "Escalier en cuivre érodé",
   "block.fiestablocks.weathered_copper_slab": "Dalle en cuivre érodé",
   "block.fiestablocks.weathered_copper_vertical_slab": "Dalle verticale en cuivre érodé",
 
-  "block.fiestablocks.oxidized_copper_trapdoor": "Trappe en cuivre oxydé",
+  "block.fiestablocks.oxidized_copper_plate": "Plaque en cuivre oxydé",
   "block.fiestablocks.oxidized_copper_stairs": "Escalier en cuivre oxydé",
   "block.fiestablocks.oxidized_copper_slab": "Dalle en cuivre oxydé",
   "block.fiestablocks.oxidized_copper_vertical_slab": "Dalle verticale en cuivre oxydé",
 
-  "block.fiestablocks.cut_copper_trapdoor": "Trappe en cuivre taillé",
+  "block.fiestablocks.cut_copper_plate": "Plaque en cuivre taillé",
   "block.fiestablocks.cut_copper_vertical_slab": "Dalle verticale en cuivre taillé",
 
-  "block.fiestablocks.exposed_cut_copper_trapdoor": "Trappe en cuivre taillé exposé",
+  "block.fiestablocks.exposed_cut_copper_plate": "Plaque en cuivre taillé exposé",
   "block.fiestablocks.exposed_cut_copper_vertical_slab": "Dalle verticale en cuivre taillé exposé",
 
-  "block.fiestablocks.weathered_cut_copper_trapdoor": "Trappe en cuivre taillé érodé",
+  "block.fiestablocks.weathered_cut_copper_plate": "Plaque en cuivre taillé érodé",
   "block.fiestablocks.weathered_cut_copper_vertical_slab": "Dalle verticale en cuivre taillé érodé",
 
-  "block.fiestablocks.oxidized_cut_copper_trapdoor": "Trappe en cuivre taillé oxydé",
+  "block.fiestablocks.oxidized_cut_copper_plate": "Plaque en cuivre taillé oxydé",
   "block.fiestablocks.oxidized_cut_copper_vertical_slab": "Dalle verticale en cuivre taillé oxydé",
 
-  "block.fiestablocks.lapis_trapdoor": "Trappe en lapis-lazuli",
+  "block.fiestablocks.lapis_plate": "Plaque en lapis-lazuli",
   "block.fiestablocks.lapis_stairs": "Escalier en lapis-lazuli",
   "block.fiestablocks.lapis_slab": "Dalle en lapis-lazuli",
   "block.fiestablocks.lapis_vertical_slab": "Dalle verticale en lapis-lazuli",
 
-  "block.fiestablocks.sandstone_trapdoor": "Trappe en grès",
+  "block.fiestablocks.sandstone_plate": "Plaque en grès",
   "block.fiestablocks.sandstone_vertical_slab": "Dalle verticale en grès",
 
 
-  "block.fiestablocks.cut_sandstone_trapdoor": "Trappe en grès taillé",
+  "block.fiestablocks.cut_sandstone_plate": "Plaque en grès taillé",
   "block.fiestablocks.cut_sandstone_stairs": "Escalier en grès taillé",
   "block.fiestablocks.cut_sandstone_vertical_slab": "Dalle verticale en grès taillé",
 
-  "block.fiestablocks.smooth_quartz_trapdoor": "Trappe en quartz lisse",
+  "block.fiestablocks.smooth_quartz_plate": "Plaque en quartz lisse",
   "block.fiestablocks.smooth_quartz_vertical_slab": "Dalle verticale en quartz lisse",
 
-  "block.fiestablocks.smooth_red_sandstone_trapdoor": "Trappe en grès rouge lisse",
+  "block.fiestablocks.smooth_red_sandstone_plate": "Plaque en grès rouge lisse",
   "block.fiestablocks.smooth_red_sandstone_vertical_slab": "Dalle verticale en grès rouge lisse",
 
-  "block.fiestablocks.smooth_sandstone_trapdoor": "Trappe en grès lisse",
+  "block.fiestablocks.smooth_sandstone_plate": "Plaque en grès lisse",
   "block.fiestablocks.smooth_sandstone_vertical_slab": "Dalle verticale en grès lisse",
 
-  "block.fiestablocks.smooth_stone_trapdoor": "Trappe en roche lisse",
+  "block.fiestablocks.smooth_stone_plate": "Plaque en roche lisse",
   "block.fiestablocks.smooth_stone_stairs": "Escalier en roche lisse",
   "block.fiestablocks.smooth_stone_vertical_slab": "Dalle verticale en roche lisse",
 
-  "block.fiestablocks.brick_trapdoor": "Trappe en briques",
+  "block.fiestablocks.brick_plate": "Plaque en briques",
   "block.fiestablocks.brick_vertical_slab": "Dalle verticale en briques",
 
-  "block.fiestablocks.mossy_cobblestone_trapdoor": "Trappe en pierres moussues",
+  "block.fiestablocks.mossy_cobblestone_plate": "Plaque en pierres moussues",
   "block.fiestablocks.mossy_cobblestone_vertical_slab": "Dalle verticale en pierres moussues",
 
-  "block.fiestablocks.purpur_trapdoor": "Trappe de purpur",
+  "block.fiestablocks.purpur_plate": "Trappe de purpur",
   "block.fiestablocks.purpur_vertical_slab": "Dalle verticale de purpur",
 
-  "block.fiestablocks.stone_brick_trapdoor": "Trappe en pierre taillée",
+  "block.fiestablocks.stone_brick_plate": "Plaque en pierre taillée",
   "block.fiestablocks.stone_brick_vertical_slab": "Dalle verticale en pierre taillée",
 
-  "block.fiestablocks.mossy_stone_brick_trapdoor": "Trappe en pierre taillée moussue",
+  "block.fiestablocks.mossy_stone_brick_plate": "Plaque en pierre taillée moussue",
   "block.fiestablocks.mossy_stone_brick_vertical_slab": "Dalle verticale en pierre taillée moussue",
 
-  "block.fiestablocks.cracked_stone_brick_trapdoor": "Trappe en pierre taillée craquelée",
+  "block.fiestablocks.cracked_stone_brick_plate": "Plaque en pierre taillée craquelée",
   "block.fiestablocks.cracked_stone_brick_stairs": "Escaliers en pierre taillée craquelée",
   "block.fiestablocks.cracked_stone_brick_slab": "Dalle en pierre taillée craquelée",
   "block.fiestablocks.cracked_stone_brick_vertical_slab": "Dalle verticale en pierre taillée craquelée",
 
-  "block.fiestablocks.deepslate_brick_trapdoor": "Trappe en ardoise des abîmes taillée",
+  "block.fiestablocks.deepslate_brick_plate": "Plaque en ardoise des abîmes taillée",
   "block.fiestablocks.deepslate_brick_vertical_slab": "Dalle verticale en ardoise des abîmes taillée",
 
-  "block.fiestablocks.cracked_deepslate_brick_trapdoor": "Trappe en ardoise des abîmes taillée craquelée",
+  "block.fiestablocks.cracked_deepslate_brick_plate": "Plaque en ardoise des abîmes taillée craquelée",
   "block.fiestablocks.cracked_deepslate_brick_stairs": "Escaliers en ardoise des abîmes taillée craquelée",
   "block.fiestablocks.cracked_deepslate_brick_slab": "Dalle en ardoise des abîmes taillée craquelée",
   "block.fiestablocks.cracked_deepslate_brick_vertical_slab": "Dalle verticale en ardoise des abîmes taillée craquelée",
 
-  "block.fiestablocks.deepslate_tile_trapdoor": "Trappe en ardoise des abîmes carrelée",
+  "block.fiestablocks.deepslate_tile_plate": "Plaque en ardoise des abîmes carrelée",
   "block.fiestablocks.deepslate_tile_vertical_slab": "Dalle verticale en ardoise des abîmes carrelée",
 
-  "block.fiestablocks.cracked_deepslate_tile_trapdoor": "Trappe en ardoise des abîmes carrelée craquelée",
+  "block.fiestablocks.cracked_deepslate_tile_plate": "Plaque en ardoise des abîmes carrelée craquelée",
   "block.fiestablocks.cracked_deepslate_tile_stairs": "Escaliers en ardoise des abîmes carrelée craquelée",
   "block.fiestablocks.cracked_deepslate_tile_slab": "Dalle en ardoise des abîmes carrelée craquelée",
   "block.fiestablocks.cracked_deepslate_tile_vertical_slab": "Dalle verticale en ardoise des abîmes carrelée craquelée",
 
-  "block.fiestablocks.nether_brick_trapdoor": "Trappe en briques du Nether",
+  "block.fiestablocks.nether_brick_plate": "Plaque en briques du Nether",
   "block.fiestablocks.nether_brick_vertical_slab": "Dalle verticale en briques du Nether",
 
-  "block.fiestablocks.cracked_nether_brick_trapdoor": "Trappe en briques du Nether craquelée",
+  "block.fiestablocks.cracked_nether_brick_plate": "Plaque en briques du Nether craquelée",
   "block.fiestablocks.cracked_nether_brick_stairs": "Escaliers en briques du Nether craquelée",
   "block.fiestablocks.cracked_nether_brick_slab": "Dalle en briques du Nether craquelée",
   "block.fiestablocks.cracked_nether_brick_vertical_slab": "Dalle verticale en briques du Nether craquelée",
 
-  "block.fiestablocks.end_stone_brick_trapdoor": "Trappe en pierre taillée de l'End",
+  "block.fiestablocks.end_stone_brick_plate": "Plaque en pierre taillée de l'End",
   "block.fiestablocks.end_stone_brick_vertical_slab": "Dalle verticale en pierre taillée de l'End",
 
-  "block.fiestablocks.emerald_trapdoor": "Trappe en émeraude",
+  "block.fiestablocks.emerald_plate": "Plaque en émeraude",
   "block.fiestablocks.emerald_stairs": "Escaliers en émeraude",
   "block.fiestablocks.emerald_slab": "Dalle en émeraude",
   "block.fiestablocks.emerald_vertical_slab": "Dalle verticale en émeraude",
 
-  "block.fiestablocks.quartz_trapdoor": "Trappe en quartz",
+  "block.fiestablocks.quartz_plate": "Plaque en quartz",
   "block.fiestablocks.quartz_vertical_slab": "Dalle verticale en quartz",
 
-  "block.fiestablocks.prismarine_trapdoor": "Trappe en prismarine",
+  "block.fiestablocks.prismarine_plate": "Plaque en prismarine",
   "block.fiestablocks.prismarine_vertical_slab": "Dalle verticale en prismarine",
 
-  "block.fiestablocks.prismarine_brick_trapdoor": "Trappe en prismarine taillée",
+  "block.fiestablocks.prismarine_brick_plate": "Plaque en prismarine taillée",
   "block.fiestablocks.prismarine_brick_vertical_slab": "Dalle verticale en prismarine taillée",
 
-  "block.fiestablocks.dark_prismarine_trapdoor": "Trappe en prismarine sombre",
+  "block.fiestablocks.dark_prismarine_plate": "Plaque en prismarine sombre",
   "block.fiestablocks.dark_prismarine_vertical_slab": "Dalle verticale en prismarine sombre",
 
-  "block.fiestablocks.red_sandstone_trapdoor": "Trappe en grès rouge",
+  "block.fiestablocks.red_sandstone_plate": "Plaque en grès rouge",
   "block.fiestablocks.red_sandstone_vertical_slab": "Dalle verticale en grès rouge",
 
-  "block.fiestablocks.cut_red_sandstone_trapdoor": "Trappe en grès rouge taillé",
+  "block.fiestablocks.cut_red_sandstone_plate": "Plaque en grès rouge taillé",
   "block.fiestablocks.cut_red_sandstone_stairs": "Escaliers en grès rouge taillé",
   "block.fiestablocks.cut_red_sandstone_vertical_slab": "Dalle verticale en grès rouge taillé",
 
-  "block.fiestablocks.red_nether_brick_trapdoor": "Trappe en briques rouges du Nether",
+  "block.fiestablocks.red_nether_brick_plate": "Plaque en briques rouges du Nether",
   "block.fiestablocks.red_nether_brick_vertical_slab": "Dalle verticale en briques rouges du Nether",
 
-  "block.fiestablocks.blackstone_trapdoor": "Trappe en roche noire",
+  "block.fiestablocks.blackstone_plate": "Plaque en roche noire",
   "block.fiestablocks.blackstone_vertical_slab": "Dalle verticale en roche noire",
 
-  "block.fiestablocks.polished_blackstone_trapdoor": "Trappe en pierre noire",
+  "block.fiestablocks.polished_blackstone_plate": "Plaque en pierre noire",
   "block.fiestablocks.polished_blackstone_vertical_slab": "Dalle verticale en pierre noire",
 
-  "block.fiestablocks.polished_blackstone_brick_trapdoor": "Trappe en pierre noire taillée",
+  "block.fiestablocks.polished_blackstone_brick_plate": "Plaque en pierre noire taillée",
   "block.fiestablocks.polished_blackstone_brick_vertical_slab": "Dalle verticale en pierre noire taillée",
 
-  "block.fiestablocks.cracked_polished_blackstone_brick_trapdoor": "Trappe en pierre noire taillée craquelée",
+  "block.fiestablocks.cracked_polished_blackstone_brick_plate": "Plaque en pierre noire taillée craquelée",
   "block.fiestablocks.cracked_polished_blackstone_brick_stairs": "Escaliers en pierre noire taillée craquelée",
   "block.fiestablocks.cracked_polished_blackstone_brick_slab": "Dalle en pierre noire taillée craquelée",
   "block.fiestablocks.cracked_polished_blackstone_brick_vertical_slab": "Dalle verticale en pierre noire taillée craquelée"

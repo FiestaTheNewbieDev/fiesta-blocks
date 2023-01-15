@@ -1,18 +1,18 @@
 {
   "variants": {
     "facing=east": {
-      "model": "fiestablocks:block/oak_vertical_slab",
+      "model": "fiestablocks:block/oak_planks/oak_vertical_slab",
       "y": 90
     },
     "facing=north": {
-      "model": "fiestablocks:block/oak_vertical_slab"
+      "model": "fiestablocks:block/oak_planks/oak_vertical_slab"
     },
     "facing=south": {
-      "model": "fiestablocks:block/oak_vertical_slab",
+      "model": "fiestablocks:block/oak_planks/oak_vertical_slab",
       "y": 180
     },
     "facing=west": {
-      "model": "fiestablocks:block/oak_vertical_slab",
+      "model": "fiestablocks:block/oak_planks/oak_vertical_slab",
       "y": 270
     }
   }

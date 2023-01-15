@@ -1,8 +1,0 @@
-{
-  "parent": "fiestablocks:block/template_orientable_trapdoor_bottom",
-  "textures": {
-    "side": "minecraft:block/emerald_block",
-    "top": "minecraft:block/emerald_block",
-    "bottom": "minecraft:block/emerald_block"
-  }
-}

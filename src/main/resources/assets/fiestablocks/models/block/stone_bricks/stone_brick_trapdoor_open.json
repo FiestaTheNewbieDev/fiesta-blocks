@@ -1,8 +1,0 @@
-{
-  "parent": "fiestablocks:block/template_orientable_trapdoor_open",
-  "textures": {
-    "side": "minecraft:block/stone_bricks",
-    "top": "minecraft:block/stone_bricks",
-    "bottom": "minecraft:block/stone_bricks"
-  }
-}
